@@ -44,7 +44,7 @@ We'd like to keep our logos simple and consistent. So no spinning, no shadows, n
 ## Typography
 
 ### Headline
-Chakra Peth 
+Chakra Pecth 
 [Font](https://fonts.google.com/specimen/IBM+Plex+Sans)
 
 ### Body
